@@ -10,7 +10,7 @@ Projeto Olivia criada para o Mega Hack Women 2020 organizado pela [shawe](https:
 * ⚛ Chakra - Biblioteca de componentes para react
 
 ### Getting started
-É necessário ter instalado em seu computador `node` e `yarn`/`npm`/`npx`. Então, você poderá clonar este repositorio e rodar os comandos que estão listados.
+É necessário ter instalado em seu computador `node` e `yarn`/`npm`/`npx`. Então, você poderá clonar este repositório e rodar os comandos que estão listados.
 
 1. yarn
 2. yarn start
