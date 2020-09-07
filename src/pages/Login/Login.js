@@ -14,11 +14,11 @@ const Login = () => {
       <Box pt={5}>
         <InputGroup>
           <InputLeftElement children={<Icon name="email" color="primary" />} />
-          <Input type="email" placeholder="Email" variant="flushed" borderColor="primary" />
+          <Input type="email" placeholder="Email" variant="flushed" color="white" borderColor="primary" />
         </InputGroup>
         <InputGroup>
           <InputLeftElement children={<Icon name="lock" color="primary" />} />
-          <Input type="password" placeholder="Senha" variant="flushed" borderColor="primary" />
+          <Input type="password" placeholder="Senha" variant="flushed" color="white" borderColor="primary" />
         </InputGroup>
       </Box>
 
